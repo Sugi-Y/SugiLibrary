@@ -1,0 +1,3 @@
+include ':LibrarySugi'
+include ':app'
+rootProject.name = "SugiLibrary"
